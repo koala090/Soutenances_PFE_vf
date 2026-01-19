@@ -147,7 +147,7 @@ Soutenances_PFE/
 
 ---
 
-## 🌐 Configuration DNS & Apache (Étudiant 1)
+## 🌐 Configuration DNS & Apache
 Dans le cadre de l’infrastructure réseau du projet :
 
 Installation et configuration complète du serveur DNS (BIND9)
