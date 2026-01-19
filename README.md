@@ -84,7 +84,7 @@ Dashboards multi-rôles
 
 Sécurité et middlewares
 
-#### 👤 Étudiant 2: Fathi Abderrahman
+### 👤 Étudiant 2: Fathi Abderrahman
 Inscription des projets
 
 Affectation manuelle et automatique des encadrants
@@ -95,7 +95,7 @@ Messagerie interne
 
 Suivi d’avancement des projets
 
-#### 👤 Étudiant 3: BOUTAOUAR Hadil
+### 👤 Étudiant 3: BOUTAOUAR Hadil
 Gestion des salles
 
 Saisie des disponibilités des enseignants
@@ -106,7 +106,7 @@ Algorithme de planification automatique
 
 Détection des conflits
 
-#### 👤 Étudiant 4: AIT OUSSAYER Mariyem
+### 👤 Étudiant 4: AIT OUSSAYER Mariyem
 Constitution des jurys
 
 Équilibrage automatique des charges
@@ -117,7 +117,7 @@ Génération des PV de soutenance
 
 Saisie des notes finales
 
-
+---
 ## 🔐 Sécurité
 Sessions sécurisées
 
@@ -128,6 +128,8 @@ Requêtes préparées (PDO)
 Validation des fichiers uploadés
 
 Protection basique contre les attaques courantes
+
+---
 
 ## ⬇️ Téléchargement
 Le projet peut être récupéré via :
