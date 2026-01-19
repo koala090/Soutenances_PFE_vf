@@ -33,6 +33,99 @@ L’application repose sur une gestion des accès par rôles (RBAC) :
 Chaque rôle dispose d’un espace dédié avec des fonctionnalités spécifiques.
 
 ---
+## 🗂️ Structure du dépôt
+
+```text
+Soutenances_PFE/
+│   index.php
+│   login.php
+│   logout.php
+│   README.md
+│
+├── admin/
+│   └── fix_annee_universitaire.php
+│
+├── config/
+│   └── database.php
+│
+├── css/
+│   │   style.css
+│   └── images/
+│       ├── euromed.jpg
+│
+├── dashboards/
+│   ├── assistante.php
+│   ├── coordinateur.php
+│   ├── directeur.php
+│   ├── etudiant.php
+│   └── professeur.php
+│
+├── database/
+│   ├── schema.sql
+│   └── data.sql
+│
+├── documents/
+│   ├── archivage.php
+│   ├── attestation.php
+│   ├── convocations.php
+│   ├── dossiers.php
+│   ├── feuille-emargement.php
+│   ├── grille-evaluation.php
+│   └── pv.php
+│
+├── fpdf/
+│   ├── fpdf.php
+│   ├── fpdf.css
+│   └── font/
+│
+├── includes/
+│   ├── header.php
+│   ├── footer.php
+│   └── functions.php
+│
+├── jurys/
+│   ├── constituer.php
+│   ├── constituer_auto.php
+│   ├── equilibrer.php
+│   ├── liste-soutenances.php
+│   ├── mes-jurys.php
+│   └── saisir_note.php
+│
+├── planning/
+│   ├── ma-soutenance.php
+│   ├── periode.php
+│   ├── planifier.php
+│   ├── planifier_auto.php
+│   ├── planningglobal.php
+│   ├── saisir_disponibilites.php
+│   ├── suivi_disponibilites.php
+│   └── voir_planning.php
+│
+├── projets/
+│   ├── affectation.php
+│   ├── affectation_auto.php
+│   ├── diagnostic_messages.php
+│   ├── inscription.php
+│   ├── liste.php
+│   ├── messagerie.php
+│   ├── upload_rapport.php
+│   ├── valider_rapport.php
+│   └── view_rapport.php
+│
+├── salles/
+│   ├── ajouter.php
+│   ├── gestion.php
+│   ├── liste.php
+│   └── modifier.php
+│
+└── uploads/
+    └── convocations/
+        ├── CONVOCATION_20260120_1.pdf
+        └── CONVOCATION_20260121_1.pdf
+
+```
+
+---
 
 ## 🛠️ Technologies utilisées
 
