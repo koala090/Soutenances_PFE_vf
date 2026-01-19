@@ -1,18 +1,3 @@
--- =============================================
--- SCHÉMA DE LA BASE DE DONNÉES
--- Application : Gestion des Soutenances PFE
--- =============================================
--- Projet : Système de Gestion des Soutenances
--- Module : Base de données - Structure uniquement
--- Auteur : Étudiant 1 (Authentification & Utilisateurs)
--- Date : 2026-01-03
--- Version : 1.0
--- =============================================
--- Description :
--- Ce fichier contient uniquement la structure de la base
--- de données (tables, contraintes, index) sans données.
--- Utiliser data.sql pour insérer les données de test.
--- =============================================
 
 -- Suppression de la base si elle existe
 DROP DATABASE IF EXISTS gestion_soutenances;
@@ -379,7 +364,7 @@ DELIMITER ;
 -- =============================================
 
 SELECT '========================================' AS '';
-SELECT '✓ SCHÉMA CRÉÉ AVEC SUCCÈS' AS 'STATUS';
+SELECT ' SCHÉMA CRÉÉ AVEC SUCCÈS' AS 'STATUS';
 SELECT '========================================' AS '';
 
 SELECT '' AS '';
