@@ -167,7 +167,7 @@ Configuration complète du DNS (BIND9)
 
 Configuration du serveur Apache
 
-Création du domaine subnance.cia.local
+Création du domaine soutenances.siham.local
 
 Authentification et gestion des sessions
 
